@@ -81,13 +81,13 @@
   <a href="https://discord.gg/jD3fnFtm" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
-  <a href="Take a look at Mohd Azad Chaudhary (@mdazadchaudhary): https://x.com/mdazadchaudhary" target="_blank">
+  <a href="https://x.com/mdazadchaudhary" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
-  <a href="mohdazadchhaudhary5@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mohdazadchaudhary5@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <a href="mohdazadchaudhary5@outlook.com" target="_blank">
+  <a href="https://outlook.live.com/owa/?path=/mail/action/compose&to=mohdazadchaudhary5@outlook.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
   </a>
 </div>
